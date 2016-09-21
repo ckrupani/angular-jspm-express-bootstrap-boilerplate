@@ -1,0 +1,12 @@
+[ng-cloak] {
+    display: none;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-color: #FFFFFF;
+}
